@@ -11,3 +11,5 @@ vesc_status L_status
 vesc_status R_status
 
 float32[4] battery
+
+bool magnet
