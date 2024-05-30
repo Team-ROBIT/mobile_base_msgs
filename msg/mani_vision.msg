@@ -28,10 +28,14 @@ int8 mode  #move_mode in tens digit & mission number in ones.
 
 int8 gradient # whether the composition slanted
 int8 find_left # looking for leftmost object
+int8 find_right # looking for rightmost object
 int8 find_middle # looking for middlemost object
 int8 center # set center coordinate and move closer
 int8 box_square # box finding and centering
 
+bool missioning
+bool mission_complete
+bool grip
 ########################################
 bool in_cam
 bool in_center 
