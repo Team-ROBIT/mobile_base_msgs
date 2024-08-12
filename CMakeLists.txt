@@ -12,14 +12,11 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   DIRECTORY msg 
   FILES 
-  RobotControl.msg
-  RobotState.msg
   RobotCommunication.msg
   flipper_control.msg
   flipper_status.msg
   vesc_status.msg
   vesc_control.msg
-  Manipulator.msg
   STMtx.msg
   STMrx.msg
   dynamixel_control.msg
