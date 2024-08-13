@@ -13,6 +13,7 @@ add_message_files(
   DIRECTORY msg 
   FILES 
   RobotCommunication.msg
+  flipper_control_base.msg
   flipper_control.msg
   flipper_status.msg
   vesc_status.msg
