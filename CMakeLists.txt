@@ -26,7 +26,6 @@ add_message_files(
   manipulator_status.msg
   mani_vision.msg
   vision_path.msg
-  defense_mani_vision.msg
 )
 
 # Generate messages
