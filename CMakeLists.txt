@@ -25,6 +25,7 @@ add_message_files(
   manipulator_control.msg
   manipulator_status.msg
   mani_vision.msg
+  mani_vision_defense.msg
   vision_path.msg
 )
 
