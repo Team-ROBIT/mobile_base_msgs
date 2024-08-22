@@ -1,3 +1,4 @@
+bool run
 bool grip
 float32[3] difference # x, y, z diffrence
 float32[3] angle # r, p, y diffrence
