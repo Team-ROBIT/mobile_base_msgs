@@ -1,1 +1,3 @@
-bounding_box_array[] class
+float32 cam_width
+float32 cam_height
+bounding_box_array[] object_class
