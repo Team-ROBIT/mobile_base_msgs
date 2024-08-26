@@ -1,3 +1,2 @@
-float32 cam_width
-float32 cam_height
+string[] names
 bounding_box_array[] object_class
