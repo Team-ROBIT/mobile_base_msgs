@@ -7,3 +7,4 @@ bool l_line_info
 bool detect_stopline
 bool detect_finishline
 bool water_action
+bool snow_action
