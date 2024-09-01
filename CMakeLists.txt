@@ -30,6 +30,7 @@ add_message_files(
         bounding_box.msg
         bounding_box_array.msg
         detect.msg
+        launch_status.msg
 )
 
 # Generate messages
