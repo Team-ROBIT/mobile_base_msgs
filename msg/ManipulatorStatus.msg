@@ -1,7 +1,7 @@
 ########################################
 # Messages
 ########################################
-# manipulator control msgs.
+# manipulator status msgs.
 
 uint8 joint_num
-dynamixel_control[] joint
+DynamixelStatus[] joint

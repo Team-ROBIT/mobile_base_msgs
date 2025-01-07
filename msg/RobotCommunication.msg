@@ -3,7 +3,7 @@
 ########################################
 # Robot UDP Communication msgs.
 
-Header Header
+std_msgs/Header header
 
 bool connection 
 
@@ -17,6 +17,7 @@ geometry_msgs/Point slam # SLAM pointcloud data.
 geometry_msgs/Point[4] realsense_pointcloud # realsense raw pointcloud.
 float32[4] realsense_fps # realsense Fps.
 float32[4] realsense_bps # Image bps.
-
+ 
 bool robot_error_state
 string robot_error
+ 

@@ -1,7 +1,6 @@
 ########################################
 # Messages
 ########################################
-# manipulator status msgs.
+# Robot flipper control base msgs.
 
-uint8 joint_num
-dynamixel_status[] joint
+FlipperControl[4] flipper_control 

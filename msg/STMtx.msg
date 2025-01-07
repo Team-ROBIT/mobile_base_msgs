@@ -3,12 +3,12 @@
 ########################################
 # STM TX msgs.
 
-Header Header
+std_msgs/Header header
 
-flipper_control[4] flipper_control
+FlipperControl[4] flipper_control
 
-vesc_control L_control
-vesc_control R_control
+VescControl l_control
+VescControl r_control
 
 bool light
 
