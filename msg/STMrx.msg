@@ -3,12 +3,12 @@
 ########################################
 # STM RX msgs.
 
-Header Header
+std_msgs/Header header
 
-flipper_status[4] flipper_status
+FlipperStatus[4] flipper_status
 
-vesc_status L_status
-vesc_status R_status
+VescStatus l_status
+VescStatus r_status
 
 float32[4] battery
 

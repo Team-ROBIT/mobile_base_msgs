@@ -3,7 +3,7 @@
 ########################################
 # Robot mani_vision msgs.
 
-Header  Header
+std_msgs/Header header
 
 ########################################
 int8 mode  #move_mode in tens digit & mission number in ones.
